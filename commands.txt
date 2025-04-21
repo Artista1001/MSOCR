@@ -1,0 +1,12 @@
+py manage.py makemigrations --dry-run --verbosity 3      --dry-run=> it just moks up or go thriugh initial makemigrations at this point but doesn't actually apply
+    venv\Scripts\activate
+    py manage.py runserver
+             createsuperuser
+pip install coverage
+coverage run --omit='*/venv/*' manage.py test
+coverage html
+pip install djangorestframework
+
+==> dbmigration 
+        python manage.py makemigrations Ocr_service
+        python manage.py migrate Ocr_service
