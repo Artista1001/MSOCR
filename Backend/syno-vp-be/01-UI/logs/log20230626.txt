@@ -1,0 +1,735 @@
+[14:42:45 INF] Starting app - 2023-06-26 09:12:45 {"Application":"SYNOVERGE-APP-DEV"}
+[14:42:45 INF] Db Upgrade Started - 2023-06-26 09:12:45 {"Application":"SYNOVERGE-APP-DEV"}
+[14:42:45 INF] Current Machine Name - svt-pc-328 {"Application":"SYNOVERGE-APP-DEV"}
+[14:42:45 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[14:42:45 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[14:42:45 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[14:42:53 INF] HTTP GET / responded 200 in 4389.0213 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000002c-0007-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:27 INF] HTTP OPTIONS /api/LogIn/login responded 204 in 48.9828 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000037-000a-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:27 INF] HTTP POST /api/LogIn/login responded 200 in 391.1342 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000039-000a-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:32 INF] HTTP OPTIONS /api/VPRegistrationApproval/registrationApprovallist responded 204 in 3.5349 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000003b-000a-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:32 INF] HTTP OPTIONS /api/VPRegistrationApproval/registrationApprovallist responded 204 in 1.8024 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000006-000b-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:33 INF] HTTP GET /api/VPRegistrationApproval/registrationApprovallist responded 200 in 1265.9429 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000000b-0008-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:33 INF] HTTP GET /api/VPRegistrationApproval/registrationApprovallist responded 200 in 11.2151 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000022-0008-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:38 INF] HTTP OPTIONS /api/VPRegistrationApproval/vendorRapproval responded 204 in 0.1452 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000002-0004-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:38 INF] HTTP OPTIONS /api/VPRegistrationApproval/vendorRapproval responded 204 in 0.1010 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000003-0001-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:38 INF] HTTP GET /api/VPRegistrationApproval/vendorRapproval responded 200 in 19.0554 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000008-000b-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:38 INF] HTTP GET /api/VPRegistrationApproval/vendorRapproval responded 200 in 9.7749 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000008-0002-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:44 INF] HTTP OPTIONS /api/VPRegistrationApproval/registrationApprovallist responded 204 in 0.1682 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000044-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:44 INF] HTTP OPTIONS /api/VPRegistrationApproval/registrationApprovallist responded 204 in 0.1182 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000096-0000-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:44 INF] HTTP GET /api/VPRegistrationApproval/registrationApprovallist responded 200 in 5.8402 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000004-0004-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:44:44 INF] HTTP GET /api/VPRegistrationApproval/registrationApprovallist responded 200 in 3.2597 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000003d-000a-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:28 INF] HTTP OPTIONS /api/LogIn/login responded 204 in 0.8135 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000006-0004-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:28 INF] HTTP POST /api/LogIn/login responded 200 in 15.8108 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000003d-0006-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:29 INF] HTTP OPTIONS /api/VPInvoiceFormat/invoiceformatbyvendor responded 204 in 0.4973 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000029-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:29 INF] HTTP OPTIONS /api/VPInvoiceFormat/invoiceformatbyvendor responded 204 in 1.9415 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000005-0001-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:30 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/invoicetrackinglist responded 204 in 0.5346 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000051-000a-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:30 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/invoicetrackinglist responded 204 in 1.4020 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000007-0001-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:30 INF] HTTP POST /api/VPVendorInvoiceTracking/invoicetrackinglist responded 200 in 24.6594 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000002-0004-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:30 INF] HTTP POST /api/VPVendorInvoiceTracking/invoicetrackinglist responded 200 in 24.8421 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000004f-0005-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:32 ERR] HTTP GET /api/VPInvoiceFormat/invoiceformatbyvendor responded 500 in 2349.3480 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000008-0004-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:47:32 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"80000008-0004-fd00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormat/invoiceformatbyvendor","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:47:34 ERR] HTTP GET /api/VPInvoiceFormat/invoiceformatbyvendor responded 500 in 2266.9607 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000003f-0006-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:47:34 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"8000003f-0006-ff00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormat/invoiceformatbyvendor","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:47:36 INF] HTTP OPTIONS /api/VPInvoiceFormat/invoiceformatbyvendor responded 204 in 0.1534 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000003f-000a-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:36 INF] HTTP OPTIONS /api/VPInvoiceFormat/invoiceformatbyvendor responded 204 in 0.2150 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000030-0007-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:47:36 ERR] HTTP GET /api/VPInvoiceFormat/invoiceformatbyvendor responded 500 in 2291.2465 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000053-000a-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:47:36 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"80000053-000a-ff00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormat/invoiceformatbyvendor","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:47:39 ERR] HTTP GET /api/VPInvoiceFormat/invoiceformatbyvendor responded 500 in 2275.8968 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000000a-0004-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:47:39 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"8000000a-0004-fd00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormat/invoiceformatbyvendor","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:47:41 ERR] HTTP GET /api/VPInvoiceFormat/invoiceformatbyvendor responded 500 in 2277.2716 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000041-0006-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:47:41 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"80000041-0006-ff00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormat/invoiceformatbyvendor","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:47:43 ERR] HTTP GET /api/VPInvoiceFormat/invoiceformatbyvendor responded 500 in 2281.5120 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000046-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:47:43 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"80000046-0003-fd00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormat/invoiceformatbyvendor","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:50:00 INF] HTTP OPTIONS /api/LogIn/login responded 204 in 0.2106 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000000c-0004-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:00 INF] HTTP POST /api/LogIn/login responded 200 in 82.2451 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000043-0006-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:02 INF] HTTP OPTIONS /api/VPInvoiceFormatApproval/pendingformatapprovallist responded 204 in 0.4376 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000032-0007-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:02 INF] HTTP OPTIONS /api/VPInvoiceFormatApproval/pendingformatapprovallist responded 204 in 1.5935 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000002d-0009-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:04 ERR] HTTP GET /api/VPInvoiceFormatApproval/pendingformatapprovallist responded 500 in 2263.7347 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000045-0006-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatApproval.VPInvoiceFormatApprovalDataAccess.GetFormatApprovalList(String key) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormatApproval\VPInvoiceFormatApprovalDataAccess.cs:line 45
+   at VendorPortal.Business.VPInvoiceFormatApproval.VPInvoiceFormatApprovalManager.GetFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormatApproval\VPInvoiceFormatApprovalManager.cs:line 22
+   at VendorPortal.Modules.VPInvoiceFormatApproval.VPInvoiceFormatApprovalController.GetIvoiceFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormatApproval\VPInvoiceFormatApprovalController.cs:line 30
+   at lambda_method211(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:50:04 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"80000045-0006-ff00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormatApproval/pendingformatapprovallist","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatApproval.VPInvoiceFormatApprovalDataAccess.GetFormatApprovalList(String key) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormatApproval\VPInvoiceFormatApprovalDataAccess.cs:line 45
+   at VendorPortal.Business.VPInvoiceFormatApproval.VPInvoiceFormatApprovalManager.GetFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormatApproval\VPInvoiceFormatApprovalManager.cs:line 22
+   at VendorPortal.Modules.VPInvoiceFormatApproval.VPInvoiceFormatApprovalController.GetIvoiceFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormatApproval\VPInvoiceFormatApprovalController.cs:line 30
+   at lambda_method211(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:50:06 ERR] HTTP GET /api/VPInvoiceFormatApproval/pendingformatapprovallist responded 500 in 2291.2058 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000047-0006-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatApproval.VPInvoiceFormatApprovalDataAccess.GetFormatApprovalList(String key) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormatApproval\VPInvoiceFormatApprovalDataAccess.cs:line 45
+   at VendorPortal.Business.VPInvoiceFormatApproval.VPInvoiceFormatApprovalManager.GetFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormatApproval\VPInvoiceFormatApprovalManager.cs:line 22
+   at VendorPortal.Modules.VPInvoiceFormatApproval.VPInvoiceFormatApprovalController.GetIvoiceFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormatApproval\VPInvoiceFormatApprovalController.cs:line 30
+   at lambda_method211(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:50:06 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"80000047-0006-ff00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormatApproval/pendingformatapprovallist","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatApproval.VPInvoiceFormatApprovalDataAccess.GetFormatApprovalList(String key) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormatApproval\VPInvoiceFormatApprovalDataAccess.cs:line 45
+   at VendorPortal.Business.VPInvoiceFormatApproval.VPInvoiceFormatApprovalManager.GetFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormatApproval\VPInvoiceFormatApprovalManager.cs:line 22
+   at VendorPortal.Modules.VPInvoiceFormatApproval.VPInvoiceFormatApprovalController.GetIvoiceFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormatApproval\VPInvoiceFormatApprovalController.cs:line 30
+   at lambda_method211(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:50:09 ERR] HTTP GET /api/VPInvoiceFormatApproval/pendingformatapprovallist responded 500 in 2323.0655 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000034-0007-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatApproval.VPInvoiceFormatApprovalDataAccess.GetFormatApprovalList(String key) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormatApproval\VPInvoiceFormatApprovalDataAccess.cs:line 45
+   at VendorPortal.Business.VPInvoiceFormatApproval.VPInvoiceFormatApprovalManager.GetFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormatApproval\VPInvoiceFormatApprovalManager.cs:line 22
+   at VendorPortal.Modules.VPInvoiceFormatApproval.VPInvoiceFormatApprovalController.GetIvoiceFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormatApproval\VPInvoiceFormatApprovalController.cs:line 30
+   at lambda_method211(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:50:09 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"80000034-0007-fe00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormatApproval/pendingformatapprovallist","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatApproval.VPInvoiceFormatApprovalDataAccess.GetFormatApprovalList(String key) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormatApproval\VPInvoiceFormatApprovalDataAccess.cs:line 45
+   at VendorPortal.Business.VPInvoiceFormatApproval.VPInvoiceFormatApprovalManager.GetFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormatApproval\VPInvoiceFormatApprovalManager.cs:line 22
+   at VendorPortal.Modules.VPInvoiceFormatApproval.VPInvoiceFormatApprovalController.GetIvoiceFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormatApproval\VPInvoiceFormatApprovalController.cs:line 30
+   at lambda_method211(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:50:11 ERR] HTTP GET /api/VPInvoiceFormatApproval/pendingformatapprovallist responded 500 in 2269.2045 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000049-0006-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatApproval.VPInvoiceFormatApprovalDataAccess.GetFormatApprovalList(String key) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormatApproval\VPInvoiceFormatApprovalDataAccess.cs:line 45
+   at VendorPortal.Business.VPInvoiceFormatApproval.VPInvoiceFormatApprovalManager.GetFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormatApproval\VPInvoiceFormatApprovalManager.cs:line 22
+   at VendorPortal.Modules.VPInvoiceFormatApproval.VPInvoiceFormatApprovalController.GetIvoiceFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormatApproval\VPInvoiceFormatApprovalController.cs:line 30
+   at lambda_method211(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:50:11 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"80000049-0006-ff00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormatApproval/pendingformatapprovallist","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatApproval.VPInvoiceFormatApprovalDataAccess.GetFormatApprovalList(String key) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormatApproval\VPInvoiceFormatApprovalDataAccess.cs:line 45
+   at VendorPortal.Business.VPInvoiceFormatApproval.VPInvoiceFormatApprovalManager.GetFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormatApproval\VPInvoiceFormatApprovalManager.cs:line 22
+   at VendorPortal.Modules.VPInvoiceFormatApproval.VPInvoiceFormatApprovalController.GetIvoiceFormatApprovalList() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormatApproval\VPInvoiceFormatApprovalController.cs:line 30
+   at lambda_method211(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+[14:50:52 INF] HTTP OPTIONS /api/LogIn/login responded 204 in 0.1220 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000098-0000-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:52 INF] HTTP POST /api/LogIn/login responded 200 in 6.6059 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000002f-0009-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:53 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/invoicetrackinglist responded 204 in 0.2890 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000002b-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:53 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/invoicetrackinglist responded 204 in 0.1106 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000009a-0000-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:53 INF] HTTP POST /api/VPVendorInvoiceTracking/invoicetrackinglist responded 200 in 20.2138 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000024-0008-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:50:53 INF] HTTP POST /api/VPVendorInvoiceTracking/invoicetrackinglist responded 200 in 20.5106 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000002d-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:52:59 INF] HTTP OPTIONS /api/VPInvoiceFormat/invoiceformatbyvendor responded 204 in 0.1054 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000000e-0004-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[14:53:02 ERR] HTTP GET /api/VPInvoiceFormat/invoiceformatbyvendor responded 500 in 2282.4500 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000009c-0000-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+[14:53:02 ERR] An unhandled exception has occurred while executing the request. {"EventId":{"Id":1,"Name":"UnhandledException"},"SourceContext":"Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware","RequestId":"8000009c-0000-ff00-b63f-84710c7967bb","RequestPath":"/api/VPInvoiceFormat/invoiceformatbyvendor","Application":"SYNOVERGE-APP-DEV"}
+System.Exception: An error occurred while retrieving the format list.
+   at VendorPortal.Data.VPInvoiceFormatManager.VPInvoiceFormatDataAccess.GetFormatList(String Mailid) in D:\VendorPortal\BE\syno-vp-be\04-Data-Access\VendorPortal.Data.VPInvoiceFormat\VPInvoiceFormatDataAccess.cs:line 63
+   at VendorPortal.Business.VPInvoiceFormatManager.VPInvoiceFormatManager.GetFormatList(String vendorName) in D:\VendorPortal\BE\syno-vp-be\03-Business\VendorPortal.Business.VPInvoiceFormat\VPInvoiceFormat.cs:line 23
+   at VendorPortal.Modules.VPInvoiceFormatController.VPInvoiceFormatController.getInvoiceformatAsperVendor() in D:\VendorPortal\BE\syno-vp-be\02-Modules\VendorPortal.Modules.VPInvoiceFormat\VPInvoiceFormatController.cs:line 35
+   at lambda_method148(Closure , Object )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_2>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 294
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Middlewares.SecurityHeadersMiddleware.Invoke(HttpContext context) in D:\VendorPortal\BE\syno-vp-be\01-UI\Middlewares\SecurityHeadersMiddleware.cs:line 65
+   at Microsoft.AspNetCore.Authorization.Policy.AuthorizationMiddlewareResultHandler.HandleAsync(RequestDelegate next, HttpContext context, AuthorizationPolicy policy, PolicyAuthorizationResult authorizeResult)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_1>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 270
+--- End of stack trace from previous location ---
+   at VendorPortal.Portal.Startup.<>c.<<Configure>b__12_0>d.MoveNext() in D:\VendorPortal\BE\syno-vp-be\01-UI\Startup.cs:line 264
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.ResponseCaching.ResponseCachingMiddleware.Invoke(HttpContext httpContext)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)

@@ -1,0 +1,91 @@
+[13:46:21 INF] Starting app - 2023-06-02 08:16:21 {"Application":"SYNOVERGE-APP-DEV"}
+[13:46:22 INF] Db Upgrade Started - 2023-06-02 08:16:22 {"Application":"SYNOVERGE-APP-DEV"}
+[13:46:22 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[13:46:22 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[13:46:22 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[13:46:22 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[13:46:56 INF] HTTP GET / responded 200 in 23231.6060 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000007e-0001-f800-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:19 INF] HTTP OPTIONS /api/LogIn/login responded 204 in 24.7475 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000d6-0000-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:20 INF] HTTP POST /api/LogIn/login responded 200 in 641.9640 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000d8-0000-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:22 INF] HTTP OPTIONS /api/VPRegistrationApproval/registrationApprovallist responded 204 in 5.6000 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000da-0000-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:22 INF] HTTP OPTIONS /api/VPRegistrationApproval/registrationApprovallist responded 204 in 0.4233 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000079-0000-f900-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:22 INF] HTTP GET /api/VPRegistrationApproval/registrationApprovallist responded 200 in 191.4002 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000dc-0000-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:22 INF] HTTP GET /api/VPRegistrationApproval/registrationApprovallist responded 200 in 9.5568 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000070-0002-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:23 INF] HTTP OPTIONS /api/VPInvoiceFormatApproval/formatapproval responded 204 in 2.6168 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000de-0000-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:23 INF] HTTP OPTIONS /api/VPInvoiceFormatApproval/formatapproval responded 204 in 0.1299 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000007a-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:23 INF] HTTP GET /api/VPInvoiceFormatApproval/formatapproval responded 404 in 5.7994 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000072-0002-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:23 INF] HTTP GET /api/VPInvoiceFormatApproval/formatapproval responded 404 in 1.4178 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000be-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:24 INF] HTTP OPTIONS /api/VPVendorDetails/vendordetails responded 204 in 0.9767 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000007c-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:24 INF] HTTP OPTIONS /api/VPVendorDetails/vendordetails responded 204 in 0.3074 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000006a-0003-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:24 INF] HTTP GET /api/VPVendorDetails/vendordetails responded 200 in 29.2392 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000007e-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:24 INF] HTTP GET /api/VPVendorDetails/vendordetails responded 200 in 6.8782 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000076-0001-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:46 INF] HTTP OPTIONS /api/LogIn/login responded 204 in 0.2966 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000080-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:46 INF] HTTP POST /api/LogIn/login responded 200 in 18.2090 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000c0-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:48 INF] HTTP OPTIONS /api/VPInvoiceFormat/invoiceformat responded 204 in 2.0582 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000082-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:48 INF] HTTP OPTIONS /api/VPInvoiceFormat/invoiceformat responded 204 in 2.9681 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000c2-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:48 INF] HTTP GET /api/VPInvoiceFormat/invoiceformat responded 404 in 0.7124 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000078-0001-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:48 INF] HTTP GET /api/VPInvoiceFormat/invoiceformat responded 404 in 0.9841 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000084-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:48 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/invoicetrackinglist responded 204 in 0.5114 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000007a-0001-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:48 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/invoicetrackinglist responded 204 in 2.7585 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000e0-0000-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:48 INF] HTTP POST /api/VPVendorInvoiceTracking/invoicetrackinglist responded 200 in 45.1010 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000086-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:48 INF] HTTP POST /api/VPVendorInvoiceTracking/invoicetrackinglist responded 200 in 34.7280 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000e2-0000-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:49 INF] HTTP GET /api/VPInvoiceFormat/invoiceformat responded 404 in 0.4441 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000007c-0001-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[13:55:49 INF] HTTP GET /api/VPInvoiceFormat/invoiceformat responded 404 in 0.7404 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000088-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[15:49:55 INF] Starting app - 2023-06-02 10:19:55 {"Application":"SYNOVERGE-APP-DEV"}
+[15:49:56 INF] Db Upgrade Started - 2023-06-02 10:19:56 {"Application":"SYNOVERGE-APP-DEV"}
+[15:49:56 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[15:49:56 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[15:49:56 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[15:49:56 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[15:50:08 INF] HTTP GET / responded 200 in 7519.9160 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000085-0001-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:18:31 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 401 in 41.5868 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000005a-0001-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:18:57 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 670.9884 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000005b-0001-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:21:34 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 149276.5193 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000005c-0001-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:21:57 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 9529.7831 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000005d-0001-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:23:46 INF] Starting app - 2023-06-02 10:53:46 {"Application":"SYNOVERGE-APP-DEV"}
+[16:23:47 INF] Db Upgrade Started - 2023-06-02 10:53:47 {"Application":"SYNOVERGE-APP-DEV"}
+[16:23:47 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[16:23:47 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[16:23:47 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[16:23:47 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[16:23:57 INF] HTTP GET / responded 200 in 6625.4226 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000098-0001-f900-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:24:20 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 4405.8295 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000086-0001-f800-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:27:06 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 157510.0938 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000087-0001-f800-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:28:47 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 3166.9357 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000088-0001-f800-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:29:47 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 6792.3490 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000089-0001-f800-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:32:26 INF] Starting app - 2023-06-02 11:02:26 {"Application":"SYNOVERGE-APP-DEV"}
+[16:32:26 INF] Db Upgrade Started - 2023-06-02 11:02:26 {"Application":"SYNOVERGE-APP-DEV"}
+[16:32:26 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[16:32:26 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[16:32:26 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[16:32:26 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[16:32:38 INF] HTTP GET / responded 200 in 7542.3896 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000046-0000-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:34:26 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 85773.3380 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000ce-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:37:59 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 80428.4783 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000008c-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:41:30 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 81325.2436 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000008d-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:53:21 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 79330.4916 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000062-0001-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:55:26 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 85324.6436 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000063-0001-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:59:41 INF] HTTP OPTIONS /api/LogIn/login responded 204 in 8.0311 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000009c-0001-f900-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[16:59:42 INF] HTTP POST /api/LogIn/login responded 200 in 151.9960 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000072-0003-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:29:50 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.5539 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000097-0002-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:32:56 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.6943 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000dd-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:34:13 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 77671.7879 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000ae-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:42:50 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.4183 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000067-0000-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:46:49 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.8404 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000008b-0001-f800-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:48:05 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 76017.2724 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000008d-0001-f800-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:48:56 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.7279 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000b2-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:50:14 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 77778.4339 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000e2-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:54:05 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.2233 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000c3-0001-f900-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:55:21 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 75945.7931 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000c5-0001-f900-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:56:34 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.2494 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000c7-0001-f900-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[18:57:42 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 67599.5493 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000b6-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:07:22 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.2884 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000e7-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:08:32 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 69561.5994 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000e9-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:11:56 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 1.0192 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000053-0000-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:11:58 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 2005.1813 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000bc-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:13:32 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.1994 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000005c-0000-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:14:40 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 67919.2469 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000be-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:25:28 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 0.1853 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000c2-0003-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:26:43 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 74338.8581 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000078-0000-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:36:20 INF] HTTP OPTIONS /api/VPVendorInvoiceTracking/OCR responded 204 in 4.0909 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000a0-0002-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[19:37:25 INF] HTTP POST /api/VPVendorInvoiceTracking/OCR responded 200 in 65866.0472 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"800000a2-0002-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}

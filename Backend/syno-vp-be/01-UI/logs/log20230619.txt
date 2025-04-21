@@ -1,0 +1,7 @@
+[15:05:33 INF] Starting app - 2023-06-19 09:35:33 {"Application":"SYNOVERGE-APP-DEV"}
+[15:05:34 INF] Db Upgrade Started - 2023-06-19 09:35:34 {"Application":"SYNOVERGE-APP-DEV"}
+[15:05:34 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[15:05:34 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[15:05:34 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[15:05:34 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[15:06:09 INF] HTTP GET / responded 200 in 20893.3893 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000002-0003-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}

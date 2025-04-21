@@ -1,0 +1,60 @@
+[17:15:21 INF] Starting app - 2023-05-26 11:45:21 {"Application":"SYNOVERGE-APP-DEV"}
+[17:15:22 INF] Db Upgrade Started - 2023-05-26 11:45:22 {"Application":"SYNOVERGE-APP-DEV"}
+[17:15:22 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[17:15:22 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[17:15:22 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[17:15:22 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[17:15:33 INF] HTTP GET / responded 200 in 7107.1204 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000003-0002-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:16:23 INF] HTTP POST /api/LogIn/login responded 200 in 599.2980 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000000e-0002-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:19:31 INF] HTTP POST /api/LogIn/login responded 200 in 85.1214 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000010-0002-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:20:01 INF] HTTP POST /api/LogIn/login responded 200 in 86.2483 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000011-0002-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:20:08 INF] HTTP POST /api/LogIn/login responded 200 in 70.0960 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000012-0002-fa00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:20:37 INF] Starting app - 2023-05-26 11:50:37 {"Application":"SYNOVERGE-APP-DEV"}
+[17:20:37 INF] Db Upgrade Started - 2023-05-26 11:50:37 {"Application":"SYNOVERGE-APP-DEV"}
+[17:20:37 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[17:20:37 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[17:20:37 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[17:20:37 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[17:20:44 INF] HTTP GET / responded 200 in 4862.4989 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000002d-0000-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:29:15 INF] HTTP POST /api/LogIn/login responded 200 in 275.5936 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000001c-0002-fd00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:29:24 INF] Starting app - 2023-05-26 11:59:24 {"Application":"SYNOVERGE-APP-DEV"}
+[17:29:24 INF] Db Upgrade Started - 2023-05-26 11:59:24 {"Application":"SYNOVERGE-APP-DEV"}
+[17:29:24 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[17:29:24 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[17:29:24 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[17:29:24 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[17:29:29 INF] HTTP GET / responded 200 in 4030.6866 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000020-0001-f800-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:30:20 INF] Starting app - 2023-05-26 12:00:20 {"Application":"SYNOVERGE-APP-DEV"}
+[17:30:21 INF] Db Upgrade Started - 2023-05-26 12:00:21 {"Application":"SYNOVERGE-APP-DEV"}
+[17:30:21 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[17:30:21 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[17:30:21 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[17:30:21 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[17:30:25 INF] HTTP POST /api/LogIn/login responded 200 in 765.3705 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000019-0001-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:30:31 INF] HTTP GET / responded 200 in 6339.8288 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000000a-0002-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:31:05 INF] HTTP POST /api/LogIn/login responded 200 in 105.1841 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000001a-0001-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:38:00 INF] Starting app - 2023-05-26 12:07:59 {"Application":"SYNOVERGE-APP-DEV"}
+[17:38:00 INF] Db Upgrade Started - 2023-05-26 12:08:00 {"Application":"SYNOVERGE-APP-DEV"}
+[17:38:00 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[17:38:00 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[17:38:00 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[17:38:00 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[17:38:11 INF] HTTP POST /api/LogIn/CreateAdmin responded 200 in 7228.5466 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000001d-0001-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:38:17 INF] HTTP GET / responded 200 in 13419.5269 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000056-0003-fc00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:39:27 INF] Starting app - 2023-05-26 12:09:27 {"Application":"SYNOVERGE-APP-DEV"}
+[17:39:28 INF] Db Upgrade Started - 2023-05-26 12:09:28 {"Application":"SYNOVERGE-APP-DEV"}
+[17:39:28 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[17:39:28 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[17:39:28 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[17:39:28 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[17:39:39 INF] HTTP POST /api/LogIn/CreateAdmin responded 200 in 5936.4865 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000044-0000-ff00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:39:45 INF] HTTP GET / responded 200 in 12554.0851 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000037-0003-fe00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:42:40 INF] Starting app - 2023-05-26 12:12:40 {"Application":"SYNOVERGE-APP-DEV"}
+[17:42:40 INF] Db Upgrade Started - 2023-05-26 12:12:40 {"Application":"SYNOVERGE-APP-DEV"}
+[17:42:40 INF] Current Machine Name - svt-pc-191 {"Application":"SYNOVERGE-APP-DEV"}
+[17:42:40 INF] Current Directory - D:\VendorPortal\BE\syno-vp-be\01-UI {"Application":"SYNOVERGE-APP-DEV"}
+[17:42:40 INF] Run Auto Upgrader - false {"Application":"SYNOVERGE-APP-DEV"}
+[17:42:40 INF] Run Auto Upgrader On Machine - NAME_OF_SERVER_WHEN_APP_IS_DEPLOYED_ON_MULTIPLE_SERVER {"Application":"SYNOVERGE-APP-DEV"}
+[17:42:52 INF] HTTP GET / responded 200 in 7088.2248 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"8000002f-0001-f900-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:44:37 INF] HTTP POST /api/LogIn/CreateAdmin responded 200 in 105107.9689 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000007-0000-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
+[17:44:47 INF] HTTP POST /api/LogIn/CreateAdmin responded 200 in 2222.4546 ms {"SourceContext":"Serilog.AspNetCore.RequestLoggingMiddleware","RequestId":"80000008-0000-fb00-b63f-84710c7967bb","Application":"SYNOVERGE-APP-DEV"}
